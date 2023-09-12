@@ -136,18 +136,18 @@
                             <!-- 2 column grid layout with text inputs for the first and last names -->
 
                             <div class="form-outline mb-4">
-                                <input type="text" id="form3Example2" class="form-control"
-                                    name="{{ form.username.name }}" value="{{ form.username.value }}" />
+                                <input type="text" id="form3Example2" class="form-control" name="{{ form.username.name }}"
+                                    value="{{ form.username.value|default:'' }}" />
                                 <label class="form-label" for="form3Example4">{{ form.username.label_tag }}</label>
                             </div>
-
-
+                            
                             <!-- Email input -->
                             <div class="form-outline mb-4">
                                 <input type="email" id="form3Example3" class="form-control" name="{{ form.email.name }}"
-                                    value="{{ form.email.value }}" />
+                                    value="{{ form.email.value|default:'' }}" />
                                 <label class="form-label" for="form3Example3">{{ form.email.label_tag }}</label>
                             </div>
+                            
 
                             <!-- Password input -->
                             <div class="form-outline mb-4">

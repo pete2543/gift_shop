@@ -78,13 +78,14 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'verseeve_shop',
-        'USER':'root',
-        'PASSWORD':'',
-        'OPTIONS': {
-            'sql_mode': 'STRICT_TRANS_TABLES',
-               },
+        'USER': 'root',
+        'PASSWORD': '',
+        #'HOST': '127.0.0.1',  # Replace with the hostname or IP address of your MySQL server
+        #'PORT': '3306',       # Replace with the port number of your MySQL server (usually 3306)
     }
 }
+
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
