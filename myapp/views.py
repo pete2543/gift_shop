@@ -10,15 +10,15 @@ def my_view(req):
     
     return render(req,"index.html",{"product":product})
 
-def register (req:HttpRequest):
+def register(req: HttpRequest):
     if req.method == "POST":
         form = RegisterFrom(req.POST)
         if form.is_valid():
-            user= form.save()
-            login(req,user)
-            return HttpResponseRedirect(reverse("index"))#login แล้วกลับไปที่หน้าhomeได้เลย
+            user = form.save()  # เพิ่มบรรทัดนี้เพื่อบันทึกข้อมูลผู้ใช้ลงในฐานข้อมูล
+            login(req, user)
+            return HttpResponseRedirect(reverse("index"))
     else:
         form = RegisterFrom()
-    #GET 
-    context = {"form":form}
-    return render(req,"app_users/register.html",context)
+    
+    context = {"form": form}
+    return render(req, "app_users/register.html", context)

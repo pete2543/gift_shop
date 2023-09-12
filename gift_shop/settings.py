@@ -131,4 +131,21 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 LOGIN_REDIRECT_URL = "index"
 LOGOUT_REDIRECT_URL = "index"
-
+#AUTHENTICATION_BACKENDS = [
+#    'django.contrib.auth.backends.ModelBackend',  # ใช้ backend ของ Django สำหรับการยืนยันตัวตน
+    # เพิ่ม backend อื่นๆ ที่คุณอาจต้องการใช้งาน (เช่น allauth, social authentication, ฯลฯ)
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'handlers': {
+        'file': {
+            'level': 'DEBUG',
+            'class': 'logging.FileHandler',
+            'filename': 'django.log',  # ชื่อไฟล์ log ที่คุณต้องการ
+        },
+    },
+    'root': {
+        'handlers': ['file'],
+        'level': 'DEBUG',
+    },
+}
