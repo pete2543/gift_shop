@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'myapp',
+    'Shopping_Cart',
 ]
 
 MIDDLEWARE = [
@@ -76,12 +77,12 @@ WSGI_APPLICATION = 'gift_shop.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'verseeve_shop',
-        'USER': 'root',
-        'PASSWORD': '',
-        #'HOST': '127.0.0.1',  # Replace with the hostname or IP address of your MySQL server
-        #'PORT': '3306',       # Replace with the port number of your MySQL server (usually 3306)
+        'USER': 'postgres',
+        'PASSWORD': '11426012',
+        'HOST': '127.0.0.1',  # Replace with the hostname or IP address of your MySQL server
+        'PORT': '5432',       # Replace with the port number of your MySQL server (usually 3306)
     }
 }
 

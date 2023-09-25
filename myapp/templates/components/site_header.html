@@ -1,48 +1,88 @@
 {% load static %}
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container px-4 px-lg-5">
-        <a class="navbar-brand" href="#!">VERSE EYE</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span
-                class="navbar-toggler-icon"></span></button>
+
+ <!-- Navbar -->
+ <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+    <!-- Container wrapper -->
+    <div class="container-fluid">
+        <!-- Toggle button -->
+        <button class="navbar-toggler" type="button" data-mdb-toggle="collapse"
+            data-mdb-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+            aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+        </button>
+
+        <!-- Collapsible wrapper -->
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="#!">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="#!">About</a></li>
-
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button"
-                        data-bs-toggle="dropdown" aria-expanded="false">Shop</a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="#!">All Products</a></li>
-                        <li>
-                            <hr class="dropdown-divider" />
-                        </li>
-                        <li><a class="dropdown-item" href="#!">Popular Items</a></li>
-                        <li><a class="dropdown-item" href="#!">New Arrivals</a></li>
-                    </ul>
+            <!-- Navbar brand -->
+            <a class="navbar-brand mt-2 mt-lg-0" href="#">
+                <img src="media\img_product\logo.jpg" height="50"
+                    alt="MDB Logo" loading="lazy" />
+            </a>
+            <!-- Left links -->
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Home</a>
                 </li>
-                {% if user.is_authenticated%}
-                <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" id="navbarDropdown" href="{%url 'login'%}" role="button"
-                        data-bs-toggle="dropdown" aria-expanded="false">{{user.username}}</a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="{%url 'logout'%}">Log out</a></li>
-
-                    </ul>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
                 </li>
-                {%else %}
-                <li class="nav-item"><a class="nav-link" href="{%url 'login'%}">Log in</a></li>
-                <li class="nav-item"><a class="nav-link" href="{%url 'register'%}">สมัครสมาชิก</a></li>
-                {%endif%}
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Product</a>
+                </li>
             </ul>
-            <form class="d-flex">
-                <button class="btn btn-outline-dark" type="submit">
-                    <i class="bi-cart-fill me-1"></i>
-                    Cart
-                    <span class="badge bg-dark text-white ms-1 rounded-pill">0</span>
-                </button>
-            </form>
+            <!-- Left links -->
         </div>
+        <!-- Collapsible wrapper -->
+
+        <!-- Right elements -->
+        <div class="d-flex align-items-center">
+            <!-- Icon -->
+            <a class="text-reset me-3" href="#">
+                <i class="fas fa-bag-shopping fa-xl"></i>
+            </a>
+
+
+            <!-- Avatar -->
+            {% if user.is_authenticated%}
+            <div class="dropdown">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="navbarDropdown" role="button"
+                    data-mdb-toggle="dropdown" aria-expanded="false"> <i class="fas fa-user mx-1"></i> Profile </a>
+                    <!-- Dropdown menu -->
+                    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                        <li>
+                            <a class="dropdown-item" href="#">My account</a>
+                        </li>
+    
+                        <li>
+                            <a class="dropdown-item" href="#">Log out</a>
+                        </li>&nbsp {{user.username}}
+                        <
+                
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownMenuAvatar">
+                    <li>
+                        <a class="dropdown-item" href="#">My profile</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#">Settings</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="{%url 'logout'%}">Logout</a>
+                    </li>
+                </ul>
+            </div>
+
+            {% else%}
+            <a type="button" class="btn btn-link text-danger px-2 me-3" href="{%url 'login'%}">
+                Login
+            </a>
+            <a type="button" class="btn btn-danger me-3" href="{%url 'register'%}">
+                Sign up for free
+            </a>
+
+        </div>
+        {% endif%}
+        <!-- Right elements -->
     </div>
+    <!-- Container wrapper -->
 </nav>

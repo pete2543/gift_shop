@@ -1560,3 +1560,818 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /assets/favicon.ico
+Not Found: /favicon.ico
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Not Found: /assets/favicon.ico
+Not Found: /favicon.ico
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+C:\Users\Dell\Desktop\gift_shop\myapp\admin.py changed, reloading.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Forbidden (CSRF token missing.): /Shopping_Cart/
+Forbidden (CSRF token missing.): /Shopping_Cart/
+Forbidden (CSRF token missing.): /Shopping_Cart/
+Forbidden (CSRF token missing.): /Shopping_Cart/
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /img/S__4448261.jpg
+Not Found: /index.html
+Not Found: /img/logo.png
+Not Found: /img-logo/logo.png
+Not Found: /img-logo/logo.png
+Not Found: /img-logo/logo.png
+Not Found: /img-logo/logo.png
+Not Found: /index.html
+Not Found: /img-logo/logo.png
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /img-logo/logo.png
+Not Found: /index.html
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /img/jjj.jpg
+Not Found: /img/THX.jpg
+Not Found: /img/THX.jpg
+Not Found: /img/THX.jpg
+Not Found: /img/THX.jpg
+Not Found: /about.html
+Not Found: /img/THX.jpg
+Not Found: /img/THX.jpg
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /index.html
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+Not Found: /about.html
+Not Found: /favicon.ico
+Not Found: /index.html
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\Desktop\gift_shop\myapp\views.py", line 11, in my_view
+    return render(req,"index.html",{"product":product})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'log' not found. 'log' is not a valid view function or pattern name.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\Desktop\gift_shop\myapp\views.py", line 11, in my_view
+    return render(req,"index.html",{"product":product})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\loader_tags.py", line 208, in render
+    return template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 177, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\defaulttags.py", line 321, in render
+    return nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Dell\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'log' not found. 'log' is not a valid view function or pattern name.
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+couldn't import psycopg 'c' implementation: No module named 'psycopg_c'
+couldn't import psycopg 'binary' implementation: No module named 'psycopg_binary'
+couldn't import psycopg 'python' implementation: libpq library not found
+Watching for file changes with StatReloader

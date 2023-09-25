@@ -22,3 +22,9 @@ def register(req: HttpRequest):
     
     context = {"form": form}
     return render(req, "app_users/register.html", context)
+
+def Shoping_Cart(req):
+   
+    products = Product.objects.all()
+    
+    return render(req,"./Shopping_Cart/Shopping_Cart",{"product":products})
